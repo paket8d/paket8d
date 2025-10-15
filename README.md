@@ -1,10 +1,12 @@
-Junior developer exploring my passion :)
-Second-year CS student at HSE University (Moscow).
-I dove into programming fairly recently and am actively experimenting with different areas—currently most excited about algorithms and game development/design.
+Junior developer exploring my passion 😊
 
-Strong math background from school: multiple awards in national/international math olympiads and specialized STEM education.
+Second-year CS student at HSE University (Moscow) 🎓
 
-This GitHub hosts some of my small projects and coursework—feel free to explore!
+I dove into programming fairly recently and am actively experimenting with different areas—currently most excited about algorithms and game development/design. 🎮
+
+Strong math background from school: multiple awards in national/international math olympiads and specialized STEM education. 📈
+
+This GitHub hosts some of my small projects and coursework—feel free to explore! 🕶️
 
 <!--
 - 🔭 I’m currently working on ...
